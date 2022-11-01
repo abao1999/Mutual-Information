@@ -1,2 +1,2 @@
-# Estimate KL Divergence and Mutual Information
+# KL Divergence Neural Estimator
 new and improved (hopefully)!
