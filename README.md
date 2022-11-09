@@ -1,2 +1,2 @@
-# KL Divergence Neural Estimator
+# Reliable Mutual Information Estimation by Variance Reduction
 new and improved (hopefully)!
