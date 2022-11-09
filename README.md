@@ -1,2 +1,2 @@
-# Reliable Mutual Information Estimation by Variance Reduction
+# Mutual Information
 new and improved (hopefully)!
